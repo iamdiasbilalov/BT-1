@@ -13,7 +13,7 @@ To use this library, add it as a dependency in your Rust project's `Cargo.toml`:
 
 ```toml
 [dependencies]
-sortlib = { git = "https://github.com/Dikontay/sortlib.git" }
+sortlib = { git = "https://github.com/iamdiasbilalov/BT-1.git" }
 ```
 
 ### Demo
@@ -41,11 +41,11 @@ Here's a demonstration my sorting library:
 - This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ### Authors 
-- Dilnaz Alimbayeva - sortlib - [Dikontay](https://github.com/Dikontay/)
+- Bilal Dias - BT-1 - [Iamdiasbilalov](https://github.com/iamdiasbilalov/)
 
 
 
 
 
 
-# ggg
+# BT-1
