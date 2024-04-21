@@ -16,13 +16,6 @@ To use this library, add it as a dependency in your Rust project's `Cargo.toml`:
 sortlib = { git = "https://github.com/iamdiasbilalov/BT-1.git" }
 ```
 
-### Demo
-
-Here's a demonstration my sorting library:
-
-![Cargo.toml file](./cargodemo.png)
-
-![Sorting Demo](./demo.png)
 
 
 ### Contributing
